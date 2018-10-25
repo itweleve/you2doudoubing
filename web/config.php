@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q');
+define('APIKEY', 'AIzaSyBAw0OqHeVsormACMG8nycaXal1sIF8KUA');
 define('GJ_CODE', 'JP');
-define('SITE_NAME', '大爷常来玩儿啊');
-define('TITLENAME', 'DouDouTube');
+define('SITE_NAME', 'SSame的私人站点');
+define('TITLENAME', '国华测试');
 define('EN2DEKEY', 'lujianbupingyishenghou');
-define('EMAIL', 'xiaofufua@protonmail.com');
+define('EMAIL', 'wshydzzzuoshang@gmail.com');
 ?>
