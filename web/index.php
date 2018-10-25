@@ -124,7 +124,7 @@ if(isset($_GET['v'])){
       <input type="text" name="v" style="width: 50%;height: 50px;border: none;box-sizing: border-box;padding: 14px 18px;" placeholder="请输入视频 ID 或链接"  autocomplete="off" /><button type="submit"  style="width: 18%;border: none;height: 50px;background-color: #e62117;color: #fff;font-size: 18px;display: inline-block;" ><i class="fa fa-youtube-play fa-lg pr-1"></i>播放</button>
   </div>
     </form>
-    <p class="text-white m-0">这是一个 YouTube 的镜像站。</p>
+    <p class="text-white m-0">这只是为了检测我自己的PHP代码学习水平的测试网站</p>
     <p class="text-white m-0">使用请遵守当地法律法规。</p>
     </div>
     
