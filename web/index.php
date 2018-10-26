@@ -118,7 +118,7 @@ if(isset($_GET['v'])){
       <div class="col-md-9 ">
     <div class="col-md-12 pb-3 d-none d-sm-none d-md-block" style="background: url(./inc/homebg.jpg) no-repeat;background-size: cover;background-position: center -80px;text-align: center;
     "> 
-   <h3 class="pt-5 pb-2 text-white">私人推荐可以搜索一下辛灏（hao）年先生的演讲</h3>
+   <h3 class="pt-5 pb-2 text-white">推荐搜索关键字：辛灏年、透视中国、stone记、郭文贵、新疆、六四</h3>
     <form>
   <div class="form-group" >
       <input type="text" name="v" style="width: 50%;height: 50px;border: none;box-sizing: border-box;padding: 14px 18px;" placeholder="请输入视频 ID 或链接"  autocomplete="off" /><button type="submit"  style="width: 18%;border: none;height: 50px;background-color: #e62117;color: #fff;font-size: 18px;display: inline-block;" ><i class="fa fa-youtube-play fa-lg pr-1"></i>播放</button>
